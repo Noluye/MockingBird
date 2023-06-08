@@ -33,7 +33,7 @@ colormap = np.array([
     [0, 0, 0],
     [183, 183, 183],
     [76, 255, 0],
-], dtype=np.float) / 255 
+], dtype=float) / 255
 
 default_text = \
     "欢迎使用工具箱, 现已支持中文输入！"
